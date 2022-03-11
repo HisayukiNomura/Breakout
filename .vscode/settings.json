@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "system_gd32vf103.h": "c",
+        "gd32vf103_timer.h": "c"
+    }
+}

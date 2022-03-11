@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\LonganDocs"
+		},
+		{
+			"path": "..\\Baseline Project"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"breakoutbutton.h": "c",
+			"breakout.h": "c"
+		}
+	}
+}
